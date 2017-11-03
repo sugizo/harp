@@ -1,6 +1,6 @@
 # Clone the repository
 	cd ~/git
-	git clone https://github.com/sugizo/harp
+	git clone https://github.com/sugizo/harp_build
 
 # Create File
 	cd harp
